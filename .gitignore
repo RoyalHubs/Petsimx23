@@ -7,4 +7,4 @@ _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.com/Iloveballssa/Petsimx23/blob/main/.gitignore"))()
